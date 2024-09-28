@@ -10,7 +10,6 @@ const Header = () => {
         <Box>
             <Container className='space-y-3 my-4'>
 
-
                 <Image src={headerImg} alt='header image' width={500} height={500} className='mx-auto' />
                 {/* --- */}
                 <Typography variant='body1' color='gray' textAlign={'center'}>
