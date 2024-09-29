@@ -5,7 +5,7 @@ import sidBarImg from '@/assets/side-top-news.png'
 const SideBar = () => {
     return (
         <Box className='my-10'>
-            <Card >
+            <Card>
                 <CardActionArea>
                     <CardMedia>
                         <Image src={sidBarImg} alt="latest img" width={800} height={800}></Image>
